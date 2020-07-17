@@ -26,9 +26,9 @@ The height of the rectangle strip in 3D-looking canvas, and even brightness of i
 
 This is all about the ratio between each surface of a right-angled triangle.
 
-<img src="./non-rel/triangle.png" alt="Triangle" width="150"/>
+<img src="./non-rel/triangle.png" alt="Triangle" width="300"/>
 
-The formulas are below.
+Formulas are below.
 
 ```
 sin(a) = opposite / hypotenuse
