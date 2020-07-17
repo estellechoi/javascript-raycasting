@@ -48,7 +48,7 @@ How to get the distance between two points A and B here?
 
 Pythagorean theorem is the resolution.
 
-<img src="./non-rel/pytha.png" alt="Pytha" width="500" />
+<img src="./non-rel/pythagorean.png" alt="Pytha" width="500" />
 
 <br>
 
