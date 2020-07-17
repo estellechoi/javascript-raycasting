@@ -14,7 +14,7 @@ This is a Raycasting algorithm based engine that renders a semi-3D map in realti
 
 <br>
 
-## Basic Ideas: Casting ray by ray
+## Basic idea: casting ray by ray
 
 The height of the rectangle strip in 3D-looking canvas, and even brightness of it, depends on the ray distance. Ray distance means the length of ray between the player and the wall, calculating the distance of the ray's hit point(wall) from the player. The process goes ray by ray.
 
@@ -26,7 +26,7 @@ The height of the rectangle strip in 3D-looking canvas, and even brightness of i
 
 This is all about the ratio between each surface of a right-angled triangle.
 
-![Triangle](./non-rel/triangle.png)
+<img src="./non-rel/triangle.png" alt="Triangle" width="150"/>
 
 The formulas are below.
 
@@ -94,7 +94,7 @@ Here are assumptions.
 
 - Think in the scope of `60˚` and just a plane wall.
 
-![Ray](./non-rel/ray.svg)
+![Ray](./non-rel/ray.png)
 
 <br>
 
