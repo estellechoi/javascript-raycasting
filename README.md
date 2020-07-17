@@ -10,7 +10,7 @@ This is a Raycasting algorithm based engine that renders a semi-3D map in realti
 
 > The most well known game that used this technique, is Wolfenstein 3D.
 
-![Raycasting preview](./non-rel/raycasting.png)
+![Raycasting preview](./non-rel/preview.png)
 
 <br>
 
