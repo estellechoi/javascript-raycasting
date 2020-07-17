@@ -42,17 +42,17 @@ tan(a) = opposite / adjacent
 
 How to get the distance between two points A and B here?
 
-![Pytha](./non-rel/pytha.png)
+<img src="./non-rel/dist.svg" alt="Distance" width="300" />
 
 <br>
 
 Pythagorean theorem is the resolution.
 
-![Distance](./non-rel/dist.svg)
+<img src="../non-rel/pytha.png" alt="Pytha" width="300" />
 
 <br>
 
-The following code returns the the length of hypotenuse using the Pythagorean theorem.
+Following code returns the the length of hypotenuse using the Pythagorean theorem.
 
 ```javascript
 Math.sqrt((A.x - B.x) * (A.x - B.x) + (A.y - B.y) * (A.y - B.y));
@@ -60,7 +60,7 @@ Math.sqrt((A.x - B.x) * (A.x - B.x) + (A.y - B.y) * (A.y - B.y));
 
 <br>
 
-### Degrees and Radian
+### Degrees and Radian - calculating the increment of ray
 
 Here is the concept of `radian` unit. `1 radian` stands for when the arc length is equal to the radius of a circle.
 
@@ -86,15 +86,15 @@ function degToRad(deg) {
 
 <br>
 
-### Calculating the increment of ray in radian unit
+Let's calculate the increment in radian unit. Here are assumptions.
 
-Here are assumptions.
+> Why in radian unit? That is what computers understand while we, people, are familiar with angles in degrees.
 
 - Dimension of the project plane is `320 * 200`, so 320 rays are casted.
 
 - Think in the scope of `60˚` and just a plane wall.
 
-![Ray](./non-rel/ray.png)
+<img src="./non-rel/ray.png" alt="Ray" width="400" />
 
 <br>
 
