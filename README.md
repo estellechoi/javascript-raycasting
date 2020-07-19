@@ -115,5 +115,6 @@ const increment = FOV_ANGLE / NUM_RAYS;
 
 ### References
 
+- [Ray casting | Wikipedia](https://en.wikipedia.org/wiki/Ray_casting)
 - [Lode's Computer Graphics Tutorial - Raycasting](https://lodev.org/cgtutor/raycasting.html)
 - [Raycasting Basics with JavaScript | Pikuma course](https://courses.pikuma.com/courses/take/raycasting/lessons/7485598-introduction-and-learning-outcomes)
