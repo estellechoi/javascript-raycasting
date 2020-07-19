@@ -107,6 +107,10 @@ const increment = FOV_ANGLE / NUM_RAYS;
 
 <br>
 
+> FOV : Field Of Vision
+
+<br>
+
 ---
 
 ### References
